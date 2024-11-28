@@ -1,0 +1,451 @@
+,Zona,Ciudad,Precios,Direcciones,Dimensiones
+0,1,1,"MN 3,200,000","Centro SCT Baja California Sur, La Paz", - 225 m² tot. - 3 rec. - 2 baños - 2 estac.
+1,1,1,"MN 765,000","Ciudad Obregón Centro, Cajeme", - 114 m² tot. - 4 rec. - 2 baños - 2 estac.
+2,1,1,"MN 8,350,000","Morelos, Hermosillo", - 331 m² tot. - 4 rec. - 5 baños - 2 estac.
+3,1,1,"MN 3,600,000","Del Valle, Cajeme", - 322 m² tot. - 4 baños
+4,1,1,"MN 40,000,000","Fraccionamiento Los Lagos, Hermosillo", - 640 m² tot. - 4 rec. - 6 baños - 9 estac.
+5,1,1,"MN 4,800,000","Zona Norte, Cajeme", - 270 m² tot. - 3 rec. - 2 baños
+6,1,1,"MN 5,400,000","Fraccionamiento Rivello Residencial, Hermosillo", - 185 m² tot. - 3 rec. - 2 baños - 2 estac.
+7,1,1,"MN 6,400,000","San Carlos (Nuevo Guaymas), Guaymas", - 1 m² tot. - 2 rec. - 2 baños
+8,1,1,"MN 19,500,000","Héroes de Padierna, La Magdalena Contreras", - 1260 m² tot. - 4 rec. - 3 baños - 4 estac.
+9,1,1,"MN 3,900,000","Fraccionamiento Puente Real, Cajeme", - 200 m² tot. - 3 rec. - 2 baños
+10,1,1,"MN 4,200,000","Fraccionamiento Puente Real, Cajeme", - 149 m² tot. - 3 rec. - 2 baños - 4 estac.
+11,1,1,"MN 13,800,000","Miramar, Guaymas", - 869 m² tot. - 3 rec. - 3 baños - 3 estac.
+12,1,1,"MN 868,900","Caborca Centro, Caborca", - 230 m² tot. - 4 rec. - 3 baños - 2 estac.
+13,1,1,"MN 858,900","Caborca Centro, Caborca", - 320 m² tot. - 4 rec. - 3 baños - 2 estac.
+14,1,1,"MN 490,000","Montecarlo, Hermosillo", - 210 m² tot. - 4 rec. - 2 baños - 2 estac.
+15,1,1,"MN 18,000,000","Cuartel Pitic, Hermosillo", - 860 m² tot. - 4 rec. - 5 baños - 3 estac.
+16,1,1,"MN 5,800,000","San Andrés Cholula, Puebla", - 181 m² tot. - 3 rec. - 4 baños - 2 estac.
+17,1,1,"MN 5,400,000","San Carlos (Nuevo Guaymas), Guaymas", - 447 m² tot. - 3 rec. - 2 baños - 2 estac.
+18,1,1,"MN 9,875,000","San Andrés Cholula, Puebla", - 320 m² tot. - 4 rec. - 4 baños - 2 estac.
+19,1,1,"MN 4,750,000","Centenario, Hermosillo", - 480 m² tot. - 3 rec. - 3 baños - 3 estac.
+20,1,1,"MN 7,600,000","Pitic, Hermosillo", - 800 m² tot. - 4 rec. - 2 baños - 4 estac.
+21,1,1,"MN 4,280,000","Las Provincias, Hermosillo", - 140 m² tot. - 3 rec. - 2 baños - 2 estac.
+22,1,1,"MN 4,650,000","Fraccionamiento La Coruña Residencial, Hermosillo", - 200 m² tot. - 3 rec. - 2 baños - 2 estac.
+23,1,1,"MN 4,650,000","San Pedro, Cajeme", - 280 m² tot. - 3 rec. - 2 baños
+24,1,1,"MN 11,000,000","Los Santos Residencial, Hermosillo", - 505 m² tot. - 4 rec. - 5 baños - 2 estac.
+25,1,1,"MN 7,500,000","Ventura Residencial, Hermosillo", - 242 m² tot. - 3 rec. - 2 baños - 2 estac.
+26,1,1,"MN 4,640,000","Privada Victoria, Hermosillo", - 240 m² tot. - 2 rec. - 2 baños - 2 estac.
+27,1,1,"MN 6,950,000","Fraccionamiento La Encantada, Hermosillo", - 357 m² tot. - 3 rec. - 3 baños - 2 estac.
+28,1,1,"MN 5,500,000","Zona Norte, Cajeme", - 245 m² tot. - 3 rec. - 3 baños - 2 estac.
+29,1,1,"MN 2,990,000","Residencial Banus, Hermosillo", - 166 m² tot. - 3 rec. - 2 baños - 2 estac.
+30,1,1,"MN 2,880,000","Huatabampo Centro, Huatabampo", - 177 m² tot. - 2 rec. - 2 baños - 2 estac.
+31,1,1,"MN 17,500,000","Residencial Santa Lucia, Hermosillo", - 388 m² tot. - 3 rec. - 3 baños - 5 estac.
+32,1,1,"MN 6,500,000","San Pedro El Saucito, Hermosillo", - 510 m² tot. - 3 rec. - 3 baños - 2 estac.
+33,1,1,"MN 18,000,000","Zona Norte, Cajeme", - 698 m² tot. - 4 rec. - 6 baños - 4 estac.
+34,1,1,"MN 20,000,000","San Carlos (Nuevo Guaymas), Guaymas", - 553 m² tot. - 4 rec. - 3 baños - 8 estac.
+35,1,1,"MN 17,000,000","San Carlos (Nuevo Guaymas), Guaymas", - 370 m² tot. - 3 rec. - 2 baños - 6 estac.
+36,1,1,"MN 11,200,000","San Carlos (Nuevo Guaymas), Guaymas", - 408 m² tot. - 4 rec. - 5 baños - 3 estac.
+37,1,1,"MN 6,190,000","San Carlos (Nuevo Guaymas), Guaymas", - 378 m² tot. - 3 rec. - 3 baños - 2 estac.
+38,1,1,"MN 3,690,000","Las Lomas Real Del Parque, Hermosillo", - 152 m² tot. - 3 rec. - 2 baños - 2 estac.
+39,1,1,"MN 4,800,000","Zona Norte, Cajeme", - 350 m² tot. - 3 rec. - 3 baños - 2 estac.
+40,1,1,"MN 26,500,000","San Carlos (Nuevo Guaymas), Guaymas", - 597 m² tot. - 5 rec. - 4 baños - 5 estac.
+41,1,1,"MN 2,190,000","Fraccionamiento Puente Real, Cajeme", - 160 m² tot. - 3 rec. - 2 baños - 1 estac.
+42,1,1,"MN 5,200,000","San Carlos (Nuevo Guaymas), Guaymas", - 306 m² tot. - 3 rec. - 2 baños - 2 estac.
+43,1,1,"MN 23,000,000","San Carlos (Nuevo Guaymas), Guaymas", - 258 m² tot. - 4 rec. - 4 baños
+44,1,1,"USD 1,700,000","San Carlos (Nuevo Guaymas), Guaymas", - 763 m² tot. - 6 rec. - 7 baños
+45,1,1,"MN 3,500,000","Real del Moral, Iztapalapa", - 70 m² tot. - 3 rec. - 2 baños - 1 estac.
+46,1,1,"MN 1,550,000","Fraccionamiento San Jorge, Durango", - 90 m² tot. - 3 rec. - 1 baño - 1 estac.
+47,1,1,"MN 18,900,000","Vista Hermosa, Cuernavaca", - 1200 m² tot. - 4 rec. - 6 baños - 3 estac.
+48,1,1,"MN 5,770,000","San Andrés Cholula, Puebla", - 184 m² tot. - 5 rec. - 6 baños - 2 estac.
+49,1,1,"MN 1,200,000","San Benito, Hermosillo", - 215 m² tot. - 4 rec. - 3 baños - 2 estac.
+50,1,1,"MN 2,590,000","Montecarlo, Hermosillo", - 142 m² tot. - 2 baños - 2 estac.
+51,1,1,"MN 4,200,000","Residencial Salvatierra, Hermosillo", - 152 m² tot. - 3 rec. - 2 baños - 2 estac.
+52,1,1,"MN 1,540,000","Palo Verde, Hermosillo", - 205 m² tot. - 2 rec. - 1 baño - 4 estac.
+53,1,1,"MN 2,580,000","Fraccionamiento El Esplendor, Hermosillo", - 181 m² tot. - 3 rec. - 2 baños - 4 estac.
+54,1,1,"MN 4,650,000","Montecarlo, Hermosillo", - 390 m² tot. - 4 rec. - 3 baños - 2 estac.
+55,1,1,"MN 5,750,000","Real de Montejo, Hermosillo", - 317 m² tot. - 4 rec. - 1 baño - 2 estac.
+56,1,1,"MN 21,900,000","Fraccionamiento Flamingos, Hermosillo", - 566 m² tot. - 4 rec. - 2 baños - 2 estac.
+57,1,1,"MN 6,700,000","Real Del Sol, Cajeme", - 330 m² tot. - 3 rec. - 4 baños
+58,1,1,"MN 539,630","Fraccionamiento Los Portales, Hermosillo", - 200 m² tot. - 4 rec. - 3 baños - 2 estac.
+59,1,1,"MN 1,350,000","Fraccionamiento Dunas, Hermosillo", - 117 m² tot. - 1 baño - 1 estac.
+60,1,1,"MN 5,900,000","Residencial Banus, Hermosillo", - 305 m² tot. - 4 rec. - 5 baños - 3 estac.
+61,1,1,"MN 1,300,000","Real Del Llano, Hermosillo", - 130 m² tot. - 2 rec. - 1 baño - 2 estac.
+62,1,1,"MN 1,600,000","Chula Vista, Hermosillo", - 1000 m² tot. - 2 rec. - 2 baños
+63,1,1,"MN 4,100,000","Modelo, Hermosillo", - 428 m² tot. - 7 rec. - 4 baños - 10 estac.
+64,1,1,"MN 3,450,000","Corceles Residencial, Hermosillo", - 149 m² tot. - 3 rec. - 2 baños - 2 estac.
+65,1,1,"MN 6,850,000","Country Club, Guaymas", - 420 m² tot. - 4 rec. - 3 baños - 2 estac.
+66,1,1,"MN 5,850,000","Los Sabinos, Hermosillo", - 371 m² tot. - 3 rec. - 4 baños - 2 estac.
+67,1,1,"MN 7,750,000","Pitic, Hermosillo", - 476 m² tot. - 3 rec. - 4 baños - 2 estac.
+68,1,1,"MN 2,500,000","Choyal, Hermosillo", - 220 m² tot. - 3 rec. - 3 baños
+69,1,1,"MN 13,900,000","Pitic, Hermosillo", - 510 m² tot. - 3 rec. - 4 baños - 3 estac.
+70,1,1,"MN 6,500,000","Monterosa Residencial, Hermosillo", - 310 m² tot. - 4 rec. - 3 baños - 2 estac.
+71,1,1,"MN 1,850,000","Fuentes Del Mezquital, Hermosillo", - 180 m² tot. - 2 rec. - 2 baños - 1 estac.
+72,1,1,"MN 5,200,000","Racquet Club , Hermosillo", - 345 m² tot. - 4 rec. - 4 baños - 2 estac.
+73,1,1,"MN 3,050,000","Residencial Villa del Mediterráneo, Hermosillo", - 198 m² tot. - 3 rec. - 3 baños - 2 estac.
+74,1,1,"MN 20,000,000","Bahía de Kino Centro, Hermosillo", - 360 m² tot. - 5 rec. - 5 baños - 3 estac.
+75,1,1,"MN 6,000,000","Fraccionamiento La Coruña Residencial, Hermosillo", - 180 m² tot. - 3 rec. - 3 baños
+76,1,1,"MN 7,700,000","Ciudad Obregón Centro, Cajeme", - 549 m² tot. - 3 rec. - 4 baños - 5 estac.
+77,1,1,"MN 8,800,000","Fraccionamiento Puente Real, Cajeme", - 415 m² tot. - 3 rec. - 3 baños
+78,1,1,"MN 2,300,000","Residencial Asturias Residencial, Hermosillo", - 137 m² tot. - 3 rec. - 2 baños - 2 estac.
+79,1,1,"MN 5,100,000","Sonora, Tijuana", - 60 m² tot. - 2 rec. - 3 baños - 2 estac.
+80,1,1,"MN 6,000,000","Residencial Valles del Lago, Hermosillo", - 260 m² tot. - 3 rec. - 3 baños - 2 estac.
+81,1,1,"MN 5,300,000","San Andrés Cholula, Puebla", - 180 m² tot. - 4 rec. - 4 baños - 2 estac.
+82,1,1,"MN 12,000,000","San Carlos (Nuevo Guaymas), Guaymas", - 245 m² tot. - 3 rec. - 3 baños
+83,1,1,"MN 29,500,000","Residencial Hacienda Residencial Condominal, Hermosillo", - 1398 m² tot. - 3 rec. - 4 baños - 4 estac.
+84,1,1,"MN 6,900,000","Residencial Alta California Residencial, Hermosillo", - 342 m² tot. - 3 rec. - 2 baños - 2 estac.
+85,1,1,"MN 24,500,000","San Carlos (Nuevo Guaymas), Guaymas", - 716 m² tot. - 4 rec. - 5 baños - 3 estac.
+86,1,1,"MN 2,700,000","San Carlos (Nuevo Guaymas), Guaymas", - 154 m² tot. - 2 rec. - 2 baños - 2 estac.
+87,1,1,"MN 3,750,000","Residencial Campo Grande Residencial, Hermosillo", - 144 m² tot. - 3 rec. - 3 baños - 1 estac.
+88,1,1,"MN 16,000,000","San Carlos (Nuevo Guaymas), Guaymas", - 411 m² tot. - 4 rec. - 3 baños - 2 estac.
+89,1,1,"MN 4,980,000","Lomas de Angelópolis, San Andrés Cholula", - 160 m² tot. - 3 rec. - 4 baños - 2 estac.
+90,1,1,"MN 8,300,000","Pueblo Santa Clara Ocoyucan, Ocoyucan", - 185 m² tot. - 4 rec. - 5 baños - 3 estac.
+91,1,1,"MN 690,000","Nuevo Peñasco, Puerto Peñasco", - 87 m² tot. - 2 rec. - 1 baño - 1 estac.
+92,1,1,"MN 750,000","San Benito, Hermosillo", - 256 m² tot. - 3 rec. - 2 baños - 2 estac.
+93,1,1,"MN 700,000","San Benito, Hermosillo", - 262 m² tot. - 3 rec. - 2 baños - 2 estac.
+94,1,1,"MN 6,100,000","Lomas de Angelópolis, San Andrés Cholula", - 180 m² tot. - 4 rec. - 4 baños - 2 estac.
+95,1,1,"MN 710,000","Casa Blanca, Cajeme", - 248 m² tot. - 4 rec. - 4 baños - 1 estac.
+96,1,1,"MN 790,000","Lomas de Cortez, Guaymas", - 480 m² tot. - 4 rec. - 2 baños - 3 estac.
+97,1,1,"MN 1,200,000","Bachoco, Hermosillo", - 410 m² tot. - 6 rec. - 4 baños - 3 estac.
+98,1,1,"MN 986,000","Fraccionamiento El Pedregal, Guaymas", - 126 m² tot. - 1 rec. - 1 baño - 1 estac.
+99,1,1,"MN 320,000","Los Arcos, Hermosillo", - 218 m² tot. - 3 rec. - 2 baños - 2 estac.
+100,1,1,"MN 705,000","Villa Dorada, Navojoa", - 140 m² tot. - 4 rec. - 3 baños
+101,1,1,"MN 330,000","Fraccionamiento Los Manantiales, Hermosillo", - 172 m² tot. - 3 rec. - 2 baños - 1 estac.
+102,1,1,"MN 980,000","Valle Grande, Hermosillo", - 371 m² tot. - 6 rec. - 4 baños - 2 estac.
+103,1,1,"MN 6,450,000","Fraccionamiento Campanario, Hermosillo", - 250 m² tot. - 3 rec. - 2 baños - 2 estac.
+104,1,1,"MN 260,000","Guaymas Centro, Guaymas", - 105 m² tot. - 3 rec. - 2 baños - 1 estac.
+105,1,1,"MN 1,800,000","Residencial Villa Bonita, Hermosillo", - 127 m² tot. - 2 rec. - 2 baños - 2 estac.
+106,1,1,"MN 650,000","Villa Sonora, Nogales", - 250 m² tot. - 3 rec. - 2 baños - 3 estac.
+107,1,1,"MN 1,200,000","Bachoco, Hermosillo", - 242 m² tot. - 6 rec. - 4 baños - 3 estac.
+108,1,1,"MN 850,000","Valle Verde, Hermosillo", - 386 m² tot. - 4 rec. - 3 baños - 2 estac.
+109,1,1,"MN 520,000","Nuevo Nogales, Nogales", - 149 m² tot. - 4 rec. - 3 baños - 1 estac.
+110,1,1,"MN 574,000","Lomas Miramar, Guaymas", - 400 m² tot. - 4 rec. - 3 baños - 4 estac.
+111,1,1,"MN 933,000","Nuevo Nogales, Nogales", - 143 m² tot. - 4 rec. - 2 baños
+112,1,1,"MN 850,000","Nuevo Nogales, Nogales", - 154 m² tot. - 4 rec. - 3 baños - 1 estac.
+113,1,1,"MN 7,800,000","Héroes de Padierna, La Magdalena Contreras", - 210 m² tot. - 5 rec. - 5 baños - 2 estac.
+114,1,1,"MN 680,000","Villa Bonita Residencial, Hermosillo", - 80 m² tot. - 3 rec. - 1 baño - 1 estac.
+115,1,1,"MN 3,550,000","Residencial Santa Fe, Hermosillo", - 171 m² tot. - 4 rec. - 4 baños - 2 estac.
+116,1,1,"MN 710,000","Casa Blanca, Cajeme", - 182 m² tot. - 4 rec. - 4 baños - 1 estac.
+117,1,1,"MN 480,000","San Benito, Hermosillo", - 230 m² tot. - 4 rec. - 3 baños - 2 estac.
+118,1,1,"MN 712,000","Brisas del Valle, Navojoa", - 275 m² tot. - 1 rec. - 1 baño - 1 estac.
+119,1,1,"MN 790,000","Lomas de Cortez, Guaymas", - 250 m² tot. - 4 rec. - 2 baños - 3 estac.
+120,1,1,"MN 327,709","Cajeme, Cajeme", - 131 m² tot. - 3 rec. - 1 baño - 1 estac.
+121,1,1,"MN 712,000","Brisas del Valle, Navojoa", - 276 m² tot. - 2 rec. - 1 baño - 1 estac.
+122,1,1,"MN 410,000","Rancho Bonito, Hermosillo", - 105 m² tot. - 3 rec. - 2 baños - 1 estac.
+123,1,1,"MN 561,000","Villa Fontana, Cajeme", - 122 m² tot. - 1 rec. - 1 baño - 1 estac.
+124,1,1,"MN 330,000","Solidaridad, Hermosillo", - 245 m² tot. - 4 rec. - 3 baños - 2 estac.
+125,1,1,"MN 650,000","San Angel, Hermosillo", - 112 m² tot. - 3 rec. - 2 baños - 1 estac.
+126,1,1,"MN 650,000","Sonora, Guaymas", - 270 m² tot. - 4 rec. - 3 baños - 2 estac.
+127,1,1,"MN 1,630,240","Ciudad Obregón Centro, Cajeme", - 220 m² tot. - 3 rec. - 1 baño - 2 estac.
+128,1,1,"MN 5,800,000","Lomas de Angelópolis, San Andrés Cholula", - 181 m² tot. - 3 rec. - 4 baños - 2 estac.
+129,1,1,"MN 5,700,000","San Andrés Cholula, Puebla", - 180 m² tot. - 4 rec. - 4 baños - 2 estac.
+130,1,1,"MN 620,000","Casa Blanca, Cajeme", - 230 m² tot. - 5 rec. - 3 baños - 2 estac.
+131,1,1,"MN 913,000","Brisas del Valle, Navojoa", - 275 m² tot. - 2 rec. - 1 baño - 1 estac.
+132,1,1,"MN 5,790,000","San Carlos (Nuevo Guaymas), Guaymas", - 317 m² tot. - 2 rec. - 2 baños - 4 estac.
+133,1,1,"MN 540,000","Fraccionamiento Vista Real, Hermosillo", - 133 m² tot. - 2 rec. - 1 baño - 1 estac.
+134,1,1,"MN 1,200,000","Bachoco, Hermosillo", - 370 m² tot. - 6 rec. - 4 baños - 2 estac.
+135,1,1,"MN 590,000","Fraccionamiento Fovissste, Navojoa", - 154 m² tot. - 2 rec. - 1 baño - 2 estac.
+136,1,1,"MN 1,200,000","Bachoco, Hermosillo", - 242 m² tot. - 6 rec. - 4 baños - 3 estac.
+137,1,1,"MN 320,000","Los Arcos, Hermosillo", - 275 m² tot. - 3 rec. - 2 baños - 2 estac.
+138,1,1,"MN 790,000","Lomas de Cortez, Guaymas", - 250 m² tot. - 4 rec. - 2 baños - 3 estac.
+139,1,1,"MN 410,000","Fraccionamiento Altares, Hermosillo", - 118 m² tot. - 3 rec. - 1 baño - 2 estac.
+140,1,1,"MN 710,000","Casa Blanca, Cajeme", - 182 m² tot. - 4 baños - 1 estac.
+141,1,1,"MN 463,200","Casa Blanca, Cajeme", - 170 m² tot. - 3 rec. - 2 baños - 2 estac.
+142,1,1,"MN 705,000","Villa Dorada, Navojoa", - 180 m² tot. - 4 rec. - 3 baños - 1 estac.
+143,1,1,"MN 470,000","Fraccionamiento Los Portales, Hermosillo", - 169 m² tot. - 4 rec. - 2 baños - 2 estac.
+144,1,1,"MN 415,000","Puerta Real, Hermosillo", - 131 m² tot. - 3 rec. - 2 baños - 2 estac.
+145,1,1,"MN 486,080","Casa Blanca, Cajeme", - 146 m² tot. - 2 rec. - 1 baño - 2 estac.
+146,1,1,"MN 490,000","Villa Dorada, Navojoa", - 200 m² tot. - 3 rec. - 2 baños - 1 estac.
+147,1,1,"MN 430,000","Villa Guadalupe, Hermosillo", - 220 m² tot. - 4 rec. - 3 baños - 2 estac.
+148,1,1,"MN 360,000","San Angel, Hermosillo", - 100 m² tot. - 3 rec. - 2 baños - 1 estac.
+149,1,1,"MN 1,238,374","Constitución, Cajeme", - 220 m² tot. - 4 rec. - 3 baños - 2 estac.
+150,2,2,"MN 5,221,700","Cuajimalpa, Cuajimalpa de Morelos", - 35 un. - 2 a 4 rec. - 100 a 187 m² tot.
+151,2,2,"MN 8,950,000","Narvarte Poniente, Benito Juárez", - 5 un. - 3 rec.
+152,2,2,"MN 39,950,000","Lomas de Chapultepec, Miguel Hidalgo", - 739 m² tot. - 3 rec. - 3 baños - 6 estac.
+153,2,2,"MN 19,700,000","San Ángel, Alvaro Obregón", - 226 m² tot. - 4 rec. - 3 baños - 3 estac.
+154,2,2,"MN 9,800,000","Las Águilas, Alvaro Obregón", - 277 m² tot. - 4 rec. - 4 baños - 2 estac.
+155,2,2,"MN 29,300,000","Jardines del Pedregal, Alvaro Obregón", - 806 m² tot. - 3 rec. - 3 baños - 5 estac.
+156,2,2,"MN 17,000,000","Roma Norte, Cuauhtémoc", - 124 m² tot. - 4 rec. - 2 baños - 2 estac.
+157,2,2,"MN 20,000,000","Anzures, Miguel Hidalgo", - 194 m² tot. - 1 baño - 7 estac.
+158,2,2,"MN 13,999,000","Lomas de Vista Hermosa, Cuajimalpa de Morelos", - 145 m² tot. - 3 rec. - 3 baños - 3 estac.
+159,2,2,"MN 34,950,000","Jardines del Pedregal, Alvaro Obregón", - 783 m² tot. - 4 rec. - 4 baños - 4 estac.
+160,2,2,"MN 13,940,000","Narvarte Poniente, Benito Juárez", - 370 m² tot. - 6 rec. - 4 baños - 6 estac.
+161,2,2,"MN 28,000,000","Del Carmen, Coyoacán", - 480 m² tot. - 4 rec. - 6 baños - 6 estac.
+162,2,2,"MN 10,900,000","Las Águilas, Alvaro Obregón", - 355 m² tot. - 3 rec. - 2 baños - 3 estac.
+163,2,2,"MN 8,000,000","Tetelpan, Alvaro Obregón", - 200 m² tot. - 3 rec. - 2 baños - 2 estac.
+164,2,2,"MN 12,500,000","Toriello Guerra, Tlalpan", - 372 m² tot. - 5 rec. - 4 baños - 6 estac.
+165,2,2,"MN 5,616,048","Contadero, Cuajimalpa de Morelos", - 219 m² tot. - 2 rec. - 2 baños - 2 estac.
+166,2,2,"MN 8,500,000","Olivar de los Padres, Alvaro Obregón", - 114 m² tot. - 3 rec. - 4 baños - 2 estac.
+167,2,2,"MN 15,500,000","San Ángel, Alvaro Obregón", - 220 m² tot. - 3 rec. - 3 baños - 3 estac.
+168,2,2,"MN 23,800,000","Jardines del Pedregal, Alvaro Obregón", - 820 m² tot. - 4 rec. - 4 baños - 7 estac.
+169,2,2,"MN 20,000,000","Roma Norte, Cuauhtémoc", - 422 m² tot.
+170,2,2,"MN 6,499,000","Recreo, Azcapotzalco", - 194 m² tot. - 3 rec. - 2 baños - 2 estac.
+171,2,2,"MN 19,600,000","San Jerónimo Lídice, La Magdalena Contreras", - 760 m² tot. - 3 rec. - 3 baños - 6 estac.
+172,2,2,"MN 8,700,000","Ampliación las Águilas, Alvaro Obregón", - 241 m² tot. - 3 rec. - 2 baños - 2 estac.
+173,2,2,"MN 23,700,000","Jardines del Pedregal, Alvaro Obregón", - 784 m² tot. - 4 rec. - 4 baños - 4 estac.
+174,2,2,"MN 13,300,000","Club de Golf México, Tlalpan", - 340 m² tot. - 3 rec. - 3 baños - 2 estac.
+175,2,2,"MN 45,000,000","Lomas de Chapultepec, Miguel Hidalgo", - 456 m² tot. - 4 rec. - 4 baños - 4 estac.
+176,2,2,"MN 12,500,000","San Andrés Totoltepec, Tlalpan", - 1150 m² tot. - 3 rec. - 3 baños - 7 estac.
+177,2,2,"MN 16,270,000","Barrio Santa Catarina, Coyoacán", - 635 m² tot. - 4 rec. - 4 baños - 4 estac.
+178,2,2,"MN 4,780,000","Cuajimalpa, Cuajimalpa de Morelos", - 134 m² tot. - 3 rec. - 2 baños - 2 estac.
+179,2,2,"MN 12,000,000","Del Valle Centro, Benito Juárez", - 204 m² tot. - 4 rec. - 2 baños - 2 estac.
+180,2,2,"MN 37,800,000","Condominios del Bosque, Tlalpan", - 834 m² tot. - 3 rec. - 3 baños - 5 estac.
+181,2,2,"MN 5,900,000","San Lorenzo Huipulco, Tlalpan", - 194 m² tot. - 5 rec. - 5 baños - 2 estac.
+182,2,2,"MN 16,000,000","Bosque de las Lomas, Miguel Hidalgo", - 507 m² tot. - 3 rec. - 4 baños - 4 estac.
+183,2,2,"MN 34,725,000","Barrio Santa Catarina, Coyoacán", - 727 m² tot. - 4 rec. - 3 baños - 6 estac.
+184,2,2,"MN 13,500,000","Narvarte Poniente, Benito Juárez", - 270 m² tot. - 4 rec. - 2 baños - 3 estac.
+185,2,2,"MN 34,725,000","Villa Coyoacán, Coyoacán", - 727 m² tot. - 4 rec. - 3 baños - 6 estac.
+186,2,2,"MN 12,950,000","Guadalupe Inn, Alvaro Obregón", - 311 m² tot. - 3 rec. - 3 baños - 6 estac.
+187,2,2,"MN 19,690,000","Santa María Nonoalco, Benito Juárez", - 160 m² tot. - 4 rec. - 3 baños
+188,2,2,"MN 15,950,000","Villa Verdún, Alvaro Obregón", - 341 m² tot. - 3 rec. - 3 baños - 2 estac.
+189,2,2,"MN 40,000,000","Jardines del Pedregal, Alvaro Obregón", - 1000 m² tot. - 4 rec. - 4 baños - 8 estac.
+190,2,2,"MN 12,500,000","Mixcoac, Benito Juárez", - 408 m² tot. - 6 rec. - 3 baños - 2 estac.
+191,2,2,"MN 29,000,000","Pedregal de San Francisco, Coyoacán", - 758 m² tot. - 4 rec. - 6 baños - 3 estac.
+192,2,2,"MN 16,800,000","Fuentes del Pedregal, Tlalpan", - 350 m² tot. - 6 rec. - 5 baños - 3 estac.
+193,2,2,"MN 26,500,000","Cuauhtémoc, Cuauhtémoc", - 227 m² tot. - 4 rec. - 1 baño - 2 estac.
+194,2,2,"MN 8,500,000","Olivar de los Padres, Alvaro Obregón", - 114 m² tot. - 3 rec. - 4 baños - 2 estac.
+195,2,2,"MN 9,300,000","Lomas de Memetla, Cuajimalpa de Morelos", - 234 m² tot. - 3 rec. - 3 baños - 2 estac.
+196,2,2,"MN 5,800,000","Héroes de Padierna, Tlalpan", - 240 m² tot. - 6 rec. - 3 baños - 4 estac.
+197,2,2,"MN 65,000,000","Del Carmen, Coyoacán", - 1080 m² tot. - 12 rec. - 12 baños - 10 estac.
+198,2,2,"MN 4,950,000","La Laguna TicomAn, Gustavo A. Madero", - 152 m² tot. - 3 rec. - 3 baños - 2 estac.
+199,2,2,"MN 19,365,000","Jardines del Pedregal, Alvaro Obregón", - 1043 m² tot. - 3 rec. - 3 baños - 5 estac.
+200,2,2,"MN 5,245,000","Petrolera, Azcapotzalco", - 200 m² tot. - 4 rec. - 2 baños
+201,2,2,"MN 12,000,000","Del Valle Centro, Benito Juárez", - 204 m² tot. - 4 rec. - 2 baños - 2 estac.
+202,2,2,"MN 53,250,000","Jardines del Pedregal, Alvaro Obregón", - 999 m² tot. - 3 rec. - 4 baños - 6 estac.
+203,2,2,"MN 47,000,000","Bosque de las Lomas, Miguel Hidalgo", - 800 m² tot. - 4 rec. - 5 baños - 5 estac.
+204,2,2,"MN 19,990,000","Club de Golf México, Tlalpan", - 730 m² tot. - 3 rec. - 4 baños - 4 estac.
+205,2,2,"MN 10,700,000","Cuadrante de San Francisco, Coyoacán", - 175 m² tot. - 3 rec. - 2 baños - 2 estac.
+206,2,2,"MN 7,970,000","Granjas Coapa, Tlalpan", - 207 m² tot. - 6 rec. - 3 baños - 4 estac.
+207,2,2,"MN 8,500,000","Villa Tlalpan, Tlalpan", - 187 m² tot. - 5 rec. - 3 baños - 2 estac.
+208,2,2,"MN 18,500,000","Barrio San Francisco, La Magdalena Contreras", - 515 m² tot. - 3 rec. - 6 baños - 6 estac.
+209,2,2,"MN 21,500,000","Tlalpuente, Tlalpan", - 3500 m² tot. - 3 rec. - 5 baños - 12 estac.
+210,2,2,"MN 9,400,000","San Andrés Totoltepec, Tlalpan", - 1150 m² tot. - 3 rec. - 3 baños - 5 estac.
+211,2,2,"MN 39,890,000","Bosque de las Lomas, Miguel Hidalgo", - 600 m² tot. - 3 rec. - 4 baños - 4 estac.
+212,2,2,"MN 43,000,000","Lomas de Chapultepec, Miguel Hidalgo", - 500 m² tot. - 3 rec. - 3 baños - 4 estac.
+213,2,2,"MN 15,500,000","San Ángel, Alvaro Obregón", - 220 m² tot. - 3 rec. - 3 baños - 3 estac.
+214,2,2,"MN 23,600,000","Los Alpes, Alvaro Obregón", - 785 m² tot. - 4 rec. - 6 baños - 6 estac.
+215,2,2,"MN 30,000,000","Lomas de Vista Hermosa, Cuajimalpa de Morelos", - 1134 m² tot. - 4 rec. - 4 baños - 4 estac.
+216,2,2,"MN 9,900,000","Narvarte Oriente, Benito Juárez", - 200 m² tot. - 3 rec. - 3 baños - 3 estac.
+217,2,2,"MN 8,950,000","Lomas de las Aguilas, Alvaro Obregón", - 247 m² tot. - 3 rec. - 2 baños - 2 estac.
+218,2,2,"MN 58,990,000","Jardines del Pedregal, Alvaro Obregón", - 2723 m² tot. - 5 rec. - 7 baños - 7 estac.
+219,2,2,"MN 53,800,000","Jardines del Pedregal, Alvaro Obregón", - 1020 m² tot. - 4 rec. - 5 baños - 4 estac.
+220,2,2,"MN 28,750,000","Anzures, Miguel Hidalgo", - 257 m² tot. - 6 rec. - 6 baños - 2 estac.
+221,2,2,"MN 3,013,500","2o Reacomodo Tlacuitlapa, Alvaro Obregón", - 120 m² tot. - 3 rec. - 2 baños - 3 estac.
+222,2,2,"MN 5,995,000","Santa María Tepepan, Xochimilco", - 210 m² tot. - 3 rec. - 3 baños - 3 estac.
+223,2,2,"MN 8,999,999","Vergel de Coyoacán, Tlalpan", - 225 m² tot. - 4 rec. - 2 baños - 2 estac.
+224,2,2,"MN 18,000,000","Romero de Terreros, Coyoacán", - 357 m² tot. - 3 rec. - 6 baños - 4 estac.
+225,2,2,"MN 23,700,000","Jardines del Pedregal, Alvaro Obregón", - 784 m² tot. - 4 rec. - 4 baños - 4 estac.
+226,2,2,"MN 13,940,000","Narvarte Poniente, Benito Juárez", - 370 m² tot. - 6 rec. - 4 baños - 6 estac.
+227,2,2,"MN 39,950,000","Lomas de Chapultepec, Miguel Hidalgo", - 739 m² tot. - 3 rec. - 3 baños - 6 estac.
+228,2,2,"MN 33,700,000","San Ángel, Alvaro Obregón", - 784 m² tot. - 4 rec. - 4 baños - 4 estac.
+229,2,2,"MN 12,460,000","Del Valle Centro, Benito Juárez", - 162 m² tot. - 4 rec. - 3 baños
+230,2,2,"MN 41,987,000","Barrio Santa Catarina, Coyoacán", - 982 m² tot. - 3 rec. - 3 baños - 5 estac.
+231,2,2,"MN 5,616,048","Contadero, Cuajimalpa de Morelos", - 219 m² tot. - 2 rec. - 2 baños - 2 estac.
+232,2,2,"MN 17,800,000","Bosque de las Lomas, Miguel Hidalgo", - 598 m² tot. - 3 rec. - 4 baños - 4 estac.
+233,2,2,"MN 20,500,000","Lomas de Vista Hermosa, Cuajimalpa de Morelos", - 846 m² tot. - 3 rec. - 2 baños - 2 estac.
+234,2,2,"MN 19,400,000","San Angel Inn, Alvaro Obregón", - 207 m² tot. - 3 rec. - 3 baños - 2 estac.
+235,2,2,"MN 14,925,000","Residencial Acoxpa, Tlalpan", - 462 m² tot. - 6 rec. - 5 baños - 6 estac.
+236,2,2,"MN 12,138,525","San Francisco, La Magdalena Contreras", - 280 m² tot. - 3 rec. - 3 baños - 3 estac.
+237,2,2,"MN 42,000,000","Jardines del Pedregal, Alvaro Obregón", - 1907 m² tot. - 4 rec. - 3 baños - 4 estac.
+238,2,2,"MN 7,980,000","San Jerónimo Aculco, La Magdalena Contreras", - 229 m² tot. - 3 rec. - 3 baños - 2 estac.
+239,2,2,"MN 32,000,000","Bosques de las Lomas, Cuajimalpa de Morelos", - 705 m² tot. - 3 rec. - 4 estac.
+240,2,2,"MN 24,500,000","Jardines del Pedregal, Alvaro Obregón", - 850 m² tot. - 3 rec. - 4 baños - 3 estac.
+241,2,2,"MN 27,900,000","Del Carmen, Coyoacán", - 674 m² tot. - 4 rec. - 6 baños - 6 estac.
+242,2,2,"MN 10,300,000","Tlalpan, Tlalpan", - 369 m² tot. - 6 rec. - 4 baños - 2 estac.
+243,2,2,"MN 19,000,000","Bosques de las Lomas, Cuajimalpa de Morelos", - 520 m² tot. - 3 rec. - 3 baños - 3 estac.
+244,2,2,"MN 9,900,000","Lomas de Guadalupe, Alvaro Obregón", - 386 m² tot. - 3 rec. - 3 baños - 3 estac.
+245,2,2,"MN 8,500,000","Jardines del Ajusco, Tlalpan", - 506 m² tot. - 4 rec. - 4 baños - 2 estac.
+246,2,2,"MN 36,000,000","Jardines del Pedregal, Alvaro Obregón", - 1200 m² tot. - 3 rec. - 4 baños - 6 estac.
+247,2,2,"MN 8,897,000","Churubusco Country Club, Coyoacán", - 285 m² tot. - 4 rec. - 2 baños - 3 estac.
+248,2,2,"MN 11,500,000","Cristo Rey, Alvaro Obregón", - 387 m² tot. - 12 rec. - 6 baños - 6 estac.
+249,2,2,"MN 8,995,000","Toriello Guerra, Tlalpan", - 250 m² tot. - 3 rec. - 2 baños - 3 estac.
+250,2,2,"MN 38,000,000","Torres Lindavista, Gustavo A. Madero", - 1000 m² tot. - 4 rec. - 3 baños - 6 estac.
+251,2,2,"MN 22,500,000","Campestre, Alvaro Obregón", - 417 m² tot. - 3 rec. - 3 baños - 3 estac.
+252,2,2,"MN 13,200,000","Club de Golf México, Tlalpan", - 420 m² tot. - 3 rec. - 3 baños - 3 estac.
+253,2,2,"MN 7,899,000","Vergel de Coyoacán, Tlalpan", - 179 m² tot. - 4 rec. - 3 baños - 2 estac.
+254,2,2,"MN 13,000,000","Del Valle Centro, Benito Juárez", - 220 m² tot. - 4 rec. - 2 baños - 2 estac.
+255,2,2,"MN 60,000,000","San Ángel, Alvaro Obregón", - 1596 m² tot. - 3 rec. - 4 baños - 6 estac.
+256,2,2,"MN 5,794,819","Contadero, Cuajimalpa de Morelos", - 218 m² tot. - 2 rec. - 2 baños - 2 estac.
+257,2,2,"MN 12,500,000","Roma Sur, Cuauhtémoc", - 200 m² tot. - 2 rec. - 2 baños
+258,2,2,"MN 12,900,000","Tetelpan, Alvaro Obregón", - 143 m² tot. - 3 rec. - 4 baños - 4 estac.
+259,2,2,"MN 21,000,000","Jardines del Pedregal, Alvaro Obregón", - 400 m² tot. - 4 rec. - 3 baños
+260,2,2,"MN 14,900,000","Tlalpuente, Tlalpan", - 1872 m² tot. - 4 rec. - 5 baños - 4 estac.
+261,2,2,"MN 56,000,000","Lomas de Chapultepec, Miguel Hidalgo", - 1077 m² tot. - 12 rec. - 8 baños - 6 estac.
+262,2,2,"MN 33,900,000","Jardines del Pedregal, Alvaro Obregón", - 1257 m² tot. - 5 rec. - 6 baños - 12 estac.
+263,2,2,"MN 4,500,000","Del Mar, Tláhuac", - 250 m² tot. - 3 rec. - 2 baños - 2 estac.
+264,2,2,"USD 3,000,000","Bosque de las Lomas, Miguel Hidalgo", - 700 m² tot. - 3 rec. - 5 baños - 7 estac.
+265,2,2,"MN 45,000,000","Lomas de Chapultepec, Miguel Hidalgo", - 456 m² tot. - 4 rec. - 4 baños - 4 estac.
+266,2,2,"MN 8,490,000","Del Valle Norte, Benito Juárez", - 368 m² tot. - 5 rec. - 4 baños - 2 estac.
+267,2,2,"MN 24,990,000","Jardines del Pedregal, Alvaro Obregón", - 781 m² tot. - 6 rec. - 5 baños - 8 estac.
+268,2,2,"MN 14,900,000","Copilco Universidad, Coyoacán", - 273 m² tot. - 4 rec. - 3 baños - 10 estac.
+269,2,2,"MN 5,400,000","La Joya, Gustavo A. Madero", - 149 m² tot. - 5 rec. - 4 baños - 3 estac.
+270,2,2,"MN 5,500,000","Tetelpan, Alvaro Obregón", - 193 m² tot. - 3 rec. - 25 baños - 2 estac.
+271,2,2,"MN 29,300,000","Jardines del Pedregal, Alvaro Obregón", - 806 m² tot. - 3 rec. - 3 baños - 5 estac.
+272,2,2,"MN 75,000,000","Bosque de las Lomas, Miguel Hidalgo", - 1017 m² tot. - 5 rec. - 5 baños - 8 estac.
+273,2,2,"USD 2,470,000","Lomas de Chapultepec, Miguel Hidalgo", - 812 m² tot. - 5 rec. - 4 baños - 3 estac.
+274,2,2,"MN 23,500,000","Jardines del Pedregal de San Ángel, Coyoacán", - 829 m² tot. - 4 rec. - 4 baños - 4 estac.
+275,2,2,"MN 35,000,000","Jardines del Pedregal, Alvaro Obregón", - 800 m² tot. - 4 rec. - 3 baños - 5 estac.
+276,2,2,"MN 29,500,000","Del Valle Centro, Benito Juárez", - 528 m² tot. - 6 rec. - 7 baños - 5 estac.
+277,2,2,"MN 5,999,000","Portales Sur, Benito Juárez", - 77 m² tot. - 3 rec. - 2 baños - 2 estac.
+278,2,2,"MN 17,124,000","Fuentes del Pedregal, Tlalpan", - 525 m² tot. - 4 rec. - 4 baños - 4 estac.
+279,2,2,"MN 12,100,000","Barrio San Francisco, La Magdalena Contreras", - 760 m² tot. - 4 rec. - 5 baños - 5 estac.
+280,2,2,"MN 16,900,000","Club de Golf México, Tlalpan", - 522 m² tot. - 3 rec. - 3 baños - 8 estac.
+281,2,2,"MN 19,100,000","San Jerónimo Lídice, La Magdalena Contreras", - 421 m² tot. - 3 rec. - 4 baños - 4 estac.
+282,2,2,"MN 14,950,000","Florida, Alvaro Obregón", - 300 m² tot. - 4 rec. - 3 baños - 4 estac.
+283,2,2,"MN 20,000,000","Anzures, Miguel Hidalgo", - 194 m² tot. - 12 rec. - 1 baño - 10 estac.
+284,2,2,"MN 19,700,000","San Ángel, Alvaro Obregón", - 226 m² tot. - 4 rec. - 3 baños - 3 estac.
+285,2,2,"MN 58,000,000","San Bartolo Ameyalco, Alvaro Obregón", - 3800 m² tot. - 4 rec. - 8 baños - 10 estac.
+286,2,2,"MN 54,900,000","Jardines del Pedregal, Alvaro Obregón", - 736 m² tot. - 5 rec. - 5 baños - 15 estac.
+287,2,2,"MN 61,000,000","Jardines del Pedregal, Alvaro Obregón", - 2000 m² tot. - 3 rec. - 3 baños - 20 estac.
+288,2,2,"MN 9,190,000","San Nicolás Totolapan, La Magdalena Contreras", - 207 m² tot. - 4 rec. - 3 baños - 3 estac.
+289,2,2,"MN 36,000,000","Lomas de Chapultepec, Miguel Hidalgo", - 320 m² tot. - 3 rec. - 3 baños - 3 estac.
+290,2,2,"MN 13,900,000","Club de Golf México, Tlalpan", - 660 m² tot. - 3 rec. - 3 baños - 3 estac.
+291,2,2,"MN 9,780,000","Contadero, Cuajimalpa de Morelos", - 344 m² tot. - 4 rec. - 5 baños - 4 estac.
+292,2,2,"MN 16,270,000","Barrio Santa Catarina, Coyoacán", - 635 m² tot. - 4 rec. - 4 baños - 4 estac.
+293,2,2,"MN 10,900,000","Las Águilas, Alvaro Obregón", - 355 m² tot. - 3 rec. - 2 baños - 3 estac.
+294,2,2,"MN 19,600,000","San Jerónimo Lídice, La Magdalena Contreras", - 760 m² tot. - 3 rec. - 3 baños - 6 estac.
+295,2,2,"MN 29,800,000","Lomas de Chapultepec, Miguel Hidalgo", - 630 m² tot. - 3 rec. - 3 baños - 4 estac.
+296,2,2,"MN 10,000,000","Villa Coyoacán, Coyoacán", - 129 m² tot. - 3 rec. - 3 baños - 1 estac.
+297,2,2,"USD 2,675,000","Lomas de Chapultepec, Miguel Hidalgo", - 825 m² tot. - 3 rec. - 3 baños - 6 estac.
+298,2,2,"MN 9,800,000","Las Águilas, Alvaro Obregón", - 277 m² tot. - 4 rec. - 4 baños - 2 estac.
+299,2,2,"MN 13,999,000","Lomas de Vista Hermosa, Cuajimalpa de Morelos", - 145 m² tot. - 3 rec. - 3 baños - 3 estac.
+300,3,3,"MN 6,500,000","Pueblo Tlalixtac de Cabrera, Tlalixtac de Cabrera", - 1 m² tot. - 6 rec. - 3 baños - 2 estac.
+301,3,3,"MN 780,000","Fraccionamiento Ex Hacienda Catano, Magdalena Apasco", - 47 m² tot. - 2 rec. - 1 baño - 1 estac.
+302,3,3,"MN 3,000,000","Santa Cruz Xoxocotlan, Santa Cruz Xoxocotlán", - 113 m² tot. - 3 rec. - 3 baños - 1 estac.
+303,3,3,"MN 1,660,000","Ejido Paraje Santa María, Oaxaca de Juárez", - 85 m² tot. - 1 baño - 1 estac.
+304,3,3,"USD 1,800,000","Balcones Tangolunda, Santa María Huatulco", - 433 m² tot. - 4 rec. - 4 baños - 4 estac.
+305,3,3,"MN 4,850,000","Villa Villa de Etla, Villa de Etla", - 862 m² tot. - 3 rec. - 3 baños - 5 estac.
+306,3,3,"USD 679,000","Barrio El Chico Zapote, San Pedro Pochutla", - 1200 m² tot. - 3 rec. - 2 baños - 1 estac.
+307,3,3,"MN 70,000,000","Pueblo Santa Maria Colotepec, Santa María Colotepec", - 6000 m² tot. - 6 rec. - 7 baños - 10 estac.
+308,3,3,"MN 3,500,000","Mazunte, Santa María Tonameca", - 625 m² tot. - 2 rec. - 2 baños - 5 estac.
+309,3,3,"USD 3,850,000","Los Naranjos (Los Naranjos Uno), Santa María Colotepec", - 6000 m² tot. - 6 rec. - 7 baños - 2 estac.
+310,3,3,"USD 1,100,000","Sector P, Santa María Huatulco", - 497 m² tot. - 4 rec. - 4 baños - 2 estac.
+311,3,3,"MN 5,500,000","Volcanes, Oaxaca de Juárez", - 238 m² tot. - 6 rec. - 4 baños - 2 estac.
+312,3,3,"MN 2,800,000","Fraccionamiento Jardines de Huayapan, San Andrés Huayápam", - 128 m² tot. - 4 rec. - 2 estac.
+313,3,3,"USD 680,000","Bahía de Conejo, Santa María Huatulco", - 371 m² tot. - 3 rec. - 3 baños - 2 estac.
+314,3,3,"MN 3,200,000","Paraje de las Salinas, San Andrés Huayápam", - 120 m² tot. - 3 rec. - 2 baños - 2 estac.
+315,3,3,"USD 2,500,000","Santa Maria, Santa María Colotepec", - 1400 m² tot. - 4 rec. - 4 baños - 1 estac.
+316,3,3,"USD 315,000","Fraccionamiento La Bocana, Santa María Huatulco", - 212 m² tot. - 1 rec. - 1 baño - 1 estac.
+317,3,3,"MN 1,800,000","Oaxaca Centro, Oaxaca de Juárez", - 250 m² tot. - 3 rec. - 2 baños - 1 estac.
+318,3,3,"MN 3,500,000","Loma Bonita, Oaxaca de Juárez", - 187 m² tot. - 3 rec. - 2 baños - 2 estac.
+319,3,3,"MN 12,500,000","Sector O, Santa María Huatulco", - 450 m² tot. - 3 rec. - 3 baños - 1 estac.
+320,3,3,"MN 3,700,000","Vicente Guerrero, Santa María Huatulco", - 412 m² tot. - 5 rec. - 3 baños - 3 estac.
+321,3,3,"MN 1,830,000","Fraccionamiento Bugambilias, Oaxaca de Juárez", - 120 m² tot. - 1 baño - 3 estac.
+322,3,3,"MN 2,600,000","Santiago Etla, San Lorenzo Cacaotepec", - 200 m² tot. - 3 rec. - 2 baños
+323,3,3,"MN 3,100,000","La Soledad, San Lorenzo Cacaotepec", - 170 m² tot. - 3 rec. - 2 baños - 2 estac.
+324,3,3,"MN 60,000","Centro, Oaxaca de Juárez", - 150 m² tot. - 6 rec. - 4 baños
+325,3,3,"MN 8,950,000","San Felipe Del Agua 1, Oaxaca de Juárez", - 270 m² tot. - 5 rec. - 3 baños - 2 estac.
+326,3,3,"MN 6,800,000","Puerto Escondido Centro, San Pedro Mixtepec", - 393 m² tot. - 4 rec. - 4 baños - 3 estac.
+327,3,3,"MN 1,695,000","Fraccionamiento Morelos, San Pablo Etla", - 80 m² tot. - 2 rec. - 2 baños - 2 estac.
+328,3,3,"MN 2,300,000","Rancho o rancheria El Zapotalito, Villa de Tututepec de Melchor Ocampo", - 576 m² tot. - 2 rec. - 1 baño - 1 estac.
+329,3,3,"USD 450,000","Marinero, Santa María Colotepec", - 161 m² tot. - 3 rec. - 4 baños - 1 estac.
+330,3,3,"MN 6,350,000","Oaxaca de Juárez, Oaxaca", - 200 m² tot. - 4 rec. - 5 baños - 2 estac.
+331,3,3,"MN 11,250,000","Barrio San Miguel 2a Sección, Tlalixtac de Cabrera", - 725 m² tot. - 5 rec. - 3 baños - 3 estac.
+332,3,3,"MN 4,500,000","Reforma, Oaxaca de Juárez", - 161 m² tot. - 2 rec. - 2 baños
+333,3,3,"MN 2,500,000","Los Álamos, Oaxaca de Juárez", - 120 m² tot. - 4 rec. - 2 baños - 1 estac.
+334,3,3,"MN 5,500,000","Puerto Escondido Centro, San Pedro Mixtepec", - 279 m² tot. - 1 baño - 1 estac.
+335,3,3,"MN 5,890,000","Santa María Huatulco, Oaxaca", - 450 m² tot. - 3 rec. - 4 baños - 2 estac.
+336,3,3,"USD 447,000","Sector M, Santa María Huatulco", - 438 m² tot. - 3 rec. - 3 baños - 1 estac.
+337,3,3,"MN 60,000","Centro, Oaxaca de Juárez", - 150 m² tot. - 6 rec. - 4 baños
+338,3,3,"MN 6,700,000","Fraccionamiento Fraile, Tlalixtac de Cabrera", - 245 m² tot. - 3 rec. - 2 baños - 2 estac.
+339,3,3,"USD 450,000","Marinero, Santa María Colotepec", - 161 m² tot. - 3 rec. - 4 baños - 1 estac.
+340,3,3,"MN 13,500,000","Reforma, Oaxaca de Juárez", - 388 m² tot. - 5 rec. - 4 baños
+341,3,3,"MN 3,100,000","La Soledad, San Lorenzo Cacaotepec", - 170 m² tot. - 3 rec. - 2 baños - 2 estac.
+342,3,3,"MN 2,800,000","Fernando Gómez Sandoval, Santa Lucía del Camino", - 122 m² tot. - 2 rec. - 2 baños - 1 estac.
+343,3,3,"USD 1,342,000","San Pedro Pochutla, Oaxaca", - 3788 m² tot. - 1 rec. - 1 baño - 16 estac.
+344,3,3,"MN 10,900,000","Sector F, Santa María Huatulco", - 400 m² tot. - 3 rec. - 3 baños - 1 estac.
+345,3,3,"MN 6,000,000","San Felipe Del Agua 1, Oaxaca de Juárez", - 147 m² tot. - 4 rec. - 4 baños - 2 estac.
+346,3,3,"USD 799,500","El Arrocito, Santa María Huatulco", - 530 m² tot. - 3 rec. - 4 baños - 2 estac.
+347,3,3,"MN 8,500,000","Barrio San Antonio, Tlalixtac de Cabrera", - 1117 m² tot. - 2 baños - 3 estac.
+348,3,3,"USD 700,000","Bahía de Conejo, Santa María Huatulco", - 690 m² tot. - 4 rec. - 4 baños - 2 estac.
+349,3,3,"MN 11,560,000","Puerto Escondido Centro, San Pedro Mixtepec", - 289 m² tot. - 2 rec. - 3 baños - 2 estac.
+350,3,3,"MN 7,400,000","Barrio La Noria, Oaxaca de Juárez", - 253 m² tot. - 9 rec. - 5 baños - 1 estac.
+351,3,3,"MN 1,950,000","San Isidro Monjas, Santa Cruz Xoxocotlán", - 104 m² tot. - 3 rec. - 2 baños - 1 estac.
+352,3,3,"MN 4,200,000","Santo Domingo Tomaltepec, Oaxaca", - 513 m² tot. - 4 rec. - 3 baños - 4 estac.
+353,3,3,"MN 2,850,000","7 Regiones, Oaxaca de Juárez", - 209 m² tot. - 3 rec. - 2 baños - 1 estac.
+354,3,3,"MN 6,900,000","Pueblo Tlalixtac de Cabrera, Tlalixtac de Cabrera", - 712 m² tot. - 4 rec. - 2 baños - 2 estac.
+355,3,3,"MN 2,450,000","Fraccionamiento Jazmines, San Andrés Huayápam", - 170 m² tot. - 3 rec. - 1 baño
+356,3,3,"MN 6,900,000","Barrio San Antonio, Tlalixtac de Cabrera", - 721 m² tot. - 4 rec. - 2 baños - 3 estac.
+357,3,3,"MN 2,800,000","Rancho o rancheria Barra Copalita, San Miguel del Puerto", - 500 m² tot. - 2 rec. - 2 baños - 3 estac.
+358,3,3,"MN 6,850,000","Pueblo San Andres Huayapam, San Andrés Huayápam", - 1499 m² tot. - 3 rec. - 3 baños - 4 estac.
+359,3,3,"MN 12,000,000","Centro, Oaxaca de Juárez", - 443 m² tot. - 5 rec. - 2 baños
+360,3,3,"MN 5,700,000","San Felipe Del Agua 1, Oaxaca de Juárez", - 185 m² tot. - 3 rec. - 3 baños - 3 estac.
+361,3,3,"USD 850,000","Pueblo San Francisco Lachigolo, San Francisco Lachigoló", - 3753 m² tot. - 3 rec. - 4 baños - 8 estac.
+362,3,3,"MN 5,500,000","Tlalixtac de Cabrera, Oaxaca", - 600 m² tot. - 5 rec. - 4 baños - 2 estac.
+363,3,3,"MN 12,600,000","Sector N, Santa María Huatulco", - 475 m² tot. - 4 rec. - 5 baños - 2 estac.
+364,3,3,"MN 1,300,000","Santa María Atzompa, Oaxaca", - 71 m² tot. - 2 rec. - 2 baños - 1 estac.
+365,3,3,"MN 1,319,900","Pueblo Santa Maria Atzompa, Santa María Atzompa", - 68 m² tot. - 2 rec. - 1 baño - 1 estac.
+366,3,3,"USD 725,000","Laguna Encantada, Santa María Colotepec", - 1680 m² tot. - 4 rec. - 2 baños - 4 estac.
+367,3,3,"MN 5,500,000","Barrio San Antonio, Tlalixtac de Cabrera", - 945 m² tot. - 6 rec. - 4 baños - 2 estac.
+368,3,3,"MN 5,200,000","Mazunte, Santa María Tonameca", - 932 m² tot. - 2 rec. - 1 baño - 2 estac.
+369,3,3,"MN 2,300,000","Rancho o rancheria El Zapotalito, Villa de Tututepec de Melchor Ocampo", - 576 m² tot. - 2 rec. - 1 baño - 1 estac.
+370,3,3,"MN 7,500,000","Zicatela, Santa María Colotepec", - 309 m² tot. - 3 rec. - 3 baños
+371,3,3,"MN 2,900,000","San Isidro Monjas, Santa Cruz Xoxocotlán", - 240 m² tot. - 3 rec. - 2 baños - 2 estac.
+372,3,3,"MN 1,695,000","Fraccionamiento Morelos, San Pablo Etla", - 80 m² tot. - 2 rec. - 2 baños - 2 estac.
+373,3,3,"MN 8,950,000","San Felipe Del Agua 1, Oaxaca de Juárez", - 270 m² tot. - 5 rec. - 3 baños - 2 estac.
+374,3,3,"USD 1,100,000","San Pablo Etla, Oaxaca", - 2170 m² tot. - 3 rec. - 3 baños - 2 estac.
+375,3,3,"USD 1,595,000","Laguna Encantada, Santa María Colotepec", - 2399 m² tot. - 4 rec. - 4 baños - 2 estac.
+376,3,3,"MN 11,600,000","Sector N, Santa María Huatulco", - 478 m² tot. - 3 rec. - 3 baños - 1 estac.
+377,3,3,"MN 6,000,000","Ejido Guadalupe Victoria , Oaxaca de Juárez", - 185 m² tot. - 3 rec. - 3 baños - 2 estac.
+378,3,3,"USD 4,400,000","Mazunte, Santa María Tonameca", - 700 m² tot. - 5 rec. - 5 baños - 5 estac.
+379,3,3,"MN 6,800,000","Puerto Escondido Centro, San Pedro Mixtepec", - 393 m² tot. - 4 rec. - 4 baños - 3 estac.
+380,3,3,"MN 8,900,000","San FELIPE, Oaxaca de Juárez", - 350 m² tot. - 4 rec. - 4 baños - 2 estac.
+381,3,3,"MN 9,300,000","Lomas Del Creston, Oaxaca de Juárez", - 200 m² tot. - 4 rec. - 4 baños - 2 estac.
+382,3,3,"MN 7,800,000","San FELIPE, Oaxaca de Juárez", - 252 m² tot. - 3 rec. - 3 baños - 2 estac.
+383,3,3,"MN 22,000,000","San Pablo Etla, Oaxaca", - 2170 m² tot. - 3 rec. - 3 baños - 2 estac.
+384,3,3,"MN 22,500,000","Bahía de Conejo, Santa María Huatulco", - 550 m² tot. - 4 rec. - 2 baños - 2 estac.
+385,3,3,"MN 8,500,000","Emiliano Zapata, Santa María Colotepec", - 250 m² tot. - 3 rec. - 4 baños - 2 estac.
+386,3,3,"MN 2,750,000","San Miguel, San Carlos Yautepec", - 43 m² tot. - 3 rec. - 2 baños - 2 estac.
+387,3,3,"MN 2,800,000","San Miguel, San Carlos Yautepec", - 72 m² tot. - 3 rec. - 2 baños - 2 estac.
+388,3,3,"MN 18,000,000","Bahía de Conejo, Santa María Huatulco", - 316 m² tot. - 5 rec. - 7 baños - 2 estac.
+389,3,3,"MN 15,000,000","Sector O, Santa María Huatulco", - 492 m² tot. - 6 rec. - 7 baños
+390,3,3,"MN 15,000,000","Sector O, Santa María Huatulco", - 492 m² tot. - 6 rec. - 7 baños
+391,3,3,"MN 690,000","Pueblo Santa Cruz Amilpas, Santa Cruz Amilpas", - 262 m² tot. - 3 rec. - 3 baños - 2 estac.
+392,3,3,"MN 595,000","Universidad, Oaxaca de Juárez", - 185 m² tot. - 3 rec. - 2 baños
+393,3,3,"MN 29,000,000","Puerto Escondido Centro, San Pedro Mixtepec", - 300 m² tot. - 4 rec. - 4 baños - 2 estac.
+394,3,3,"MN 440,000","Barrio La Noria, Oaxaca de Juárez", - 175 m² tot. - 4 rec. - 2 baños - 1 estac.
+395,3,3,"MN 3,627,349","La Fundición, Oaxaca de Juárez", - 213 m² tot. - 3 rec. - 2 baños - 2 estac.
+396,3,3,"MN 550,000","San FELIPE, Oaxaca de Juárez", - 450 m² tot. - 4 rec. - 3 baños - 2 estac.
+397,3,3,"USD 849,000","El Arrocito, Santa María Huatulco", - 600 m² tot. - 3 rec. - 4 baños - 2 estac.
+398,3,3,"MN 590,000","San Francisco, Oaxaca de Juárez", - 230 m² tot. - 4 rec. - 2 baños - 2 estac.
+399,3,3,"USD 470,246","Congregacion El Tomatal, Santa María Colotepec", - 1576 m² tot. - 6 rec. - 6 baños
+400,3,3,"MN 895,000","Pueblo Huautepec, Huautepec", - 333 m² tot. - 2 rec. - 2 baños - 2 estac.
+401,3,3,"USD 3,500,000","San Felipe Del Agua 1, Oaxaca de Juárez", - 4612 m² tot. - 6 rec. - 5 baños - 6 estac.
+402,3,3,"MN 590,000","América Sur, Oaxaca de Juárez", - 264 m² tot. - 3 rec. - 3 baños - 2 estac.
+403,3,3,"MN 900,000","Oaxaca Centro, Oaxaca de Juárez", - 80 m² tot. - 2 rec. - 1 baño - 1 estac.
+404,3,3,"MN 810,000","Fraccionamiento Los Álamos Infonavit, Oaxaca de Juárez", - 370 m² tot. - 4 rec. - 3 baños - 2 estac.
+405,3,3,"MN 2,530,000","Oaxaca Centro, Oaxaca de Juárez", - 105 m² tot. - 3 rec. - 2 baños - 2 estac.
+406,3,3,"MN 610,000","Noche Buena, Santa Cruz Xoxocotlán", - 197 m² tot. - 4 rec. - 2 baños - 1 estac.
+407,3,3,"MN 550,000","Fraccionamiento Colinas de La Soledad, Oaxaca de Juárez", - 320 m² tot. - 4 rec. - 3 baños - 2 estac.
+408,3,3,"USD 403,000","Brisas de Zicatela, Santa María Colotepec", - 115 m² tot. - 2 rec. - 1 baño - 1 estac.
+409,3,3,"MN 600,000","Universidad, Oaxaca de Juárez", - 155 m² tot. - 4 rec. - 3 baños - 2 estac.
+410,3,3,"MN 540,000","Fraccionamiento La Loma, Oaxaca de Juárez", - 202 m² tot. - 3 rec. - 2 estac.
+411,3,3,"USD 1,800,000","Balcones Tangolunda, Santa María Huatulco", - 539 m² tot. - 6 rec. - 6 baños - 1 estac.
+412,3,3,"MN 557,000","Oaxaca Centro, Oaxaca de Juárez", - 200 m² tot. - 3 rec. - 2 baños - 1 estac.
+413,3,3,"MN 2,900,000","7 Regiones, Oaxaca de Juárez", - 110 m² tot. - 2 rec. - 1 baño - 2 estac.
+414,3,3,"MN 510,000","Bugambilias, Oaxaca de Juárez", - 190 m² tot. - 4 rec. - 3 baños - 2 estac.
+415,3,3,"MN 18,000,000","San Pedro Mixtepec Centro, San Pedro Mixtepec", - 343 m² tot. - 4 rec. - 7 baños - 2 estac.
+416,3,3,"MN 4,500,000","Oaxaca Centro, Oaxaca de Juárez", - 291 m² tot. - 5 rec. - 4 baños
+417,3,3,"MN 310,000","Centro, Oaxaca de Juárez", - 268 m² tot. - 4 rec. - 3 baños - 2 estac.
+418,3,3,"MN 570,000","Bugambilias, Oaxaca de Juárez", - 177 m² tot. - 4 rec. - 3 baños - 2 estac.
+419,3,3,"MN 13,000,000","Pueblo San Miguel Etla, San Juan Bautista Guelache", - 8400 m² tot. - 4 rec. - 3 baños - 10 estac.
+420,3,3,"MN 12,900,000","San Felipe Del Agua 1, Oaxaca de Juárez", - 600 m² tot. - 3 rec. - 4 baños - 4 estac.
+421,3,3,"MN 310,000","Centro, Oaxaca de Juárez", - 270 m² tot. - 4 rec. - 3 baños - 2 estac.
+422,3,3,"MN 1,390,000","La Paz, Santa Cruz Xoxocotlán", - 214 m² tot. - 3 rec. - 1 baño - 2 estac.
+423,3,3,"MN 535,000","Universidad, Oaxaca de Juárez", - 386 m² tot. - 4 rec. - 3 baños - 2 estac.
+424,3,3,"USD 631,000","Fraccionamiento La Bocana, Santa María Huatulco", - 190 m² tot. - 3 rec. - 3 baños - 1 estac.
+425,3,3,"USD 4,200,000","San Francisco, San Pedro Pochutla", - 4329 m² tot. - 4 rec. - 4 baños - 2 estac.
+426,3,3,"MN 692,800","Barrio Cantarrana, Acatlán de Pérez Figueroa", - 372 m² tot. - 3 rec. - 3 baños - 2 estac.
+427,3,3,"MN 14,000,000","San Felipe Del Agua 1, Oaxaca de Juárez", - 113 m² tot. - 3 rec. - 3 baños - 1 estac.
+428,3,3,"MN 3,500,000","Santa Lucía del Camino, Oaxaca", - 200 m² tot. - 3 rec. - 2 baños
+429,3,3,"USD 185,000","Brisas de Zicatela, Santa María Colotepec", - 250 m² tot. - 4 rec. - 2 baños - 1 estac.
+430,3,3,"MN 490,000","Fraccionamiento El Sureste , San Juan Bautista Tuxtepec", - 237 m² tot. - 4 rec. - 2 estac.
+431,3,3,"MN 507,000","Santa Rosa Panzacola, Oaxaca de Juárez", - 80 m² tot. - 2 rec. - 2 baños - 1 estac.
+432,3,3,"MN 1,500,000","Oaxaca Centro, Oaxaca de Juárez", - 264 m² tot. - 3 rec. - 3 baños - 2 estac.
+433,3,3,"MN 590,000","América Sur, Oaxaca de Juárez", - 312 m² tot. - 3 rec. - 1 baño - 2 estac.
+434,3,3,"MN 5,500,000","Puerto Escondido Centro, San Pedro Mixtepec", - 430 m² tot. - 3 rec. - 2 baños - 2 estac.
+435,3,3,"MN 438,510","Oaxaca Centro, Oaxaca de Juárez", - 200 m² tot. - 4 rec. - 3 baños - 2 estac.
+436,3,3,"MN 510,000","Guadalupe Victoria, Oaxaca de Juárez", - 147 m² tot. - 3 rec. - 3 baños - 2 estac.
+437,3,3,"MN 6,600,000","Oaxaca de Juárez, Oaxaca", - 230 m² tot. - 4 rec. - 3 baños - 2 estac.
+438,3,3,"MN 590,000","San Francisco, Oaxaca de Juárez", - 170 m² tot. - 1 rec. - 1 estac.
+439,3,3,"MN 305,000","Pueblo Fresnillo de Trujano, Fresnillo de Trujano", - 425 m² tot. - 4 rec. - 3 baños - 2 estac.
+440,3,3,"MN 310,000","Centro, Oaxaca de Juárez", - 779 m² tot. - 3 rec. - 3 baños
+441,3,3,"USD 595,000","Bahía de Conejo, Santa María Huatulco", - 196 m² tot. - 3 rec. - 1 estac.
+442,3,3,"MN 426,000","San FELIPE, Oaxaca de Juárez", - 150 m² tot. - 2 rec. - 2 baños - 1 estac.
+443,3,3,"USD 379,000","Rancho o rancheria Puerto Angel, San Pedro Pochutla", - 1675 m² tot. - 3 rec. - 2 baños - 3 estac.
+444,3,3,"USD 1,495,000","Puerto Escondido Centro, San Pedro Mixtepec", - 110 m² tot. - 3 rec. - 2 baños - 1 estac.
+445,3,3,"MN 437,000","Educacion, Oaxaca de Juárez", - 270 m² tot. - 5 rec. - 3 baños - 2 estac.
+446,3,3,"MN 535,000","Centro, Oaxaca de Juárez", - 373 m² tot. - 3 rec. - 3 baños - 2 estac.
+447,3,3,"MN 510,000","Guadalupe Victoria, Oaxaca de Juárez", - 495 m² tot. - 5 rec. - 7 baños - 4 estac.
+448,3,3,"USD 1,800,000","Mazunte, Santa María Tonameca", - 100 m² tot. - 2 rec. - 1 baño - 1 estac.
+449,3,3,"MN 695,000","Pueblo Guelatao de Juárez, Guelatao de Juárez",
